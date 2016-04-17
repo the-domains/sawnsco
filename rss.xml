@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sawnsco]]></title>
         <description><![CDATA[Sawnsco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://sawnsco.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 09:25:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 09:40:07 GMT</lastBuildDate>
+        <atom:link href="http://sawnsco.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betl Solutions]]></title>
-            <description><![CDATA[<article><h1>Betl Solutions</h1><p>The Future of Cloud Computing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bcd1e8927076ff0a8b5342461c74bb144a1f22b.png"></article>]]></description>
-            <link>undefinedbetl-solutions/index.html</link>
+            <description><![CDATA[<article><h1>Betl Solutions</h1><p>The Future of Cloud Computing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b3019f460e1d2f9fd30f6185913ca64cafe470a.png"></article>]]></description>
+            <link>http://sawnsco.com/betl-solutions/index.html</link>
             <guid isPermaLink="false">550aa410-5b98-4acf-82c2-924a8bd5b093</guid>
-            <pubDate>Sun, 17 Apr 2016 09:25:24 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 09:40:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
