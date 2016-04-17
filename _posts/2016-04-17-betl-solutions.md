@@ -6,23 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Future of Cloud Computing
-datePublished: '2016-04-17T09:25:24.979Z'
-dateModified: '2016-04-17T09:24:43.500Z'
+datePublished: '2016-04-17T09:40:07.050Z'
+dateModified: '2016-04-17T09:39:30.737Z'
 title: Betl Solutions
 author: []
+sourcePath: _posts/2016-04-17-betl-solutions.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-betl-solutions.md
-published: true
 url: betl-solutions/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d513fc7d-fc40-4ae0-906c-3362891287b1.png)
-
 The Future of Cloud Computing
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9161a6ae-f068-4844-a3a8-17f7e82cdba7.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b3019f460e1d2f9fd30f6185913ca64cafe470a.png)
