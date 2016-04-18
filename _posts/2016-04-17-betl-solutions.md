@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Future of Cloud Computing
-datePublished: '2016-04-17T09:40:07.050Z'
-dateModified: '2016-04-17T09:39:30.737Z'
-title: Betl Solutions
-author: []
+datePublished: '2016-04-18T18:16:28.931Z'
+dateModified: '2016-04-18T18:14:39.264Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-17-betl-solutions.md
 published: true
 authors: []
