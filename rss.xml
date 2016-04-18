@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sawnsco]]></title>
-        <description><![CDATA[Sawnsco]]></description>
-        <link>http://sawnsco.com/</link>
+        <title><![CDATA[SAWNS Ltd.]]></title>
+        <description><![CDATA[SAWNS Ltd.]]></description>
+        <link>http://www.sawnsco.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 09:40:07 GMT</lastBuildDate>
-        <atom:link href="http://sawnsco.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 18:16:59 GMT</lastBuildDate>
+        <atom:link href="http://www.sawnsco.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Betl Solutions]]></title>
-            <description><![CDATA[<article><h1>Betl Solutions</h1><p>The Future of Cloud Computing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b3019f460e1d2f9fd30f6185913ca64cafe470a.png"></article>]]></description>
-            <link>http://sawnsco.com/betl-solutions/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b3019f460e1d2f9fd30f6185913ca64cafe470a.png" alt="" title="">]]></description>
+            <link>http://www.sawnsco.com/betl-solutions/index.html</link>
             <guid isPermaLink="false">550aa410-5b98-4acf-82c2-924a8bd5b093</guid>
-            <pubDate>Sun, 17 Apr 2016 09:40:07 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 18:16:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
