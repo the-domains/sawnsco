@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Future of Cloud Computing
-datePublished: '2016-04-18T18:16:28.931Z'
-dateModified: '2016-04-18T18:14:39.264Z'
+datePublished: '2016-04-18T18:17:29.290Z'
+dateModified: '2016-04-18T18:17:26.200Z'
 title: ''
 author:
   - name: ''
