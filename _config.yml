@@ -1,7 +1,7 @@
 name: Sawnsco
 favicon: null
-layout_spectrum: 0.908026568358764
-typography_spectrum: 0.7719538358505815
+layout_spectrum: 0.02076
+typography_spectrum: 1
 title: SAWNS Ltd.
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.36656450130976737
-  lightness: 0.3232569352257997
-  saturation: 0.1574995769187808
-  rhythmicContrast: 0.5608365456573665
+    - '#000000'
+    - '#027fb3'
+    - '#959595'
+    - '#666666'
+    - '#043950'
+  brandStrength: 0.4375
+  lightness: 0.375
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
