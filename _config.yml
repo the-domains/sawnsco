@@ -2,12 +2,13 @@ name: Sawnsco
 favicon: null
 layout_spectrum: 0.908026568358764
 typography_spectrum: 0.7719538358505815
+title: SAWNS Ltd.
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: 52.32.215.222
+  google: UA-76571740-1
   facebook: null
   twitter: null
 opengraph:
