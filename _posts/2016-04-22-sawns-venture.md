@@ -2,11 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T05:52:14.870Z'
-dateModified: '2016-04-24T05:50:38.780Z'
+datePublished: '2016-04-24T05:55:43.986Z'
+dateModified: '2016-04-24T05:55:26.537Z'
 title: 'Sawns Venture '
 author: []
 sourcePath: _posts/2016-04-22-sawns-venture.md
@@ -17,11 +18,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36c4c381-ba33-4ebd-9809-36e7c9412a11.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ab478ae-53a2-4f69-b91f-4ad723ce363d.png)
 
 # Sawns Venture
