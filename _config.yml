@@ -1,20 +1,6 @@
-name: Sawnsco
-favicon: null
-layout_spectrum: 0.00664
 typography_spectrum: 1
-title: SAWNS Ltd.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-76571740-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -26,4 +12,45 @@ color:
   lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 0.25
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.00664
+analytics:
+  google: UA-76571740-1
+  facebook: null
+  twitter: null
+name: Sawnsco
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'About Us '
+    id: 5ec43b36-c781-4c3d-bb12-2bbd861f5306
+    type: content
+  - name: Our Ventures
+    id: 550aa410-5b98-4acf-82c2-924a8bd5b093
+    type: content
+  - name: Betl Solutions
+    url: >-
+      https://app.thegrid.io/app/site/live?siteID=20532492-8d47-4d5f-bf78-25b121080dc5
+    type: external
+  - name: AVN Tobacco
+    url: >-
+      https://app.thegrid.io/app/site/nav?siteID=456c11df-4ab2-4c1a-a013-f88eccede3d3
+    type: external
+  - name: SAWNS Foundation
+    id: 61d2bcb6-3c4d-4125-b636-bf566225e20a
+    type: content
+favicon: null
+title: SAWNS Ltd.
+purpose:
+  - type: contact
+    url: rishiram@sawnsco.com
+    label: Email Us
+  - type: contact
+    url: 'tel:+774803379'
+    label: Call +774803379
