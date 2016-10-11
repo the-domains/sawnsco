@@ -1,6 +1,5 @@
-typography_spectrum: 1
-content_rating:
-  adult: false
+layout_spectrum: 0.7538799243278359
+typography_spectrum: 0.4561774962526368
 color:
   brandColors:
     - '#000000'
@@ -8,16 +7,17 @@ color:
     - '#959595'
     - '#666666'
     - '#043950'
-  brandStrength: 0.4375
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  brandStrength: 0.3520926783972484
+  lightness: 0.7014854286114989
+  saturation: 0.1330145385316435
+  rhythmicContrast: 0.39526493469179413
+content_rating:
+  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.00664
 analytics:
   google: UA-76571740-1
   facebook: null
