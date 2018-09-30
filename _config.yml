@@ -49,8 +49,10 @@ favicon: null
 title: SAWNS Ltd.
 purpose:
   - type: contact
-    url: rishiram@sawnsco.com
+    url: 'mailto:rishiram@sawnsco.com'
     label: Email Us
   - type: contact
     url: 'tel:+774803379'
     label: Call +774803379
+content: []
+url: 'https://sawnsco.com'
